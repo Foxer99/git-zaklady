@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet, Vulpes!?
+Ahoj svet, Kamarat a Vulpes!?
 
 ## O mne
 
