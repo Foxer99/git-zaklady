@@ -3,4 +3,6 @@
 Ahoj svet!
 
 ## O mne
-Ja som Jana.
+
+Ja som Jana. Pozdravuje Motus
+
